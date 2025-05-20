@@ -1,0 +1,6 @@
+@MathOperations.API_HostAddress = http://localhost:5029
+
+GET {{MathOperations.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
